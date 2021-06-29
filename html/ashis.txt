@@ -1,0 +1,4 @@
+this is a text file including how to deal with the problem in the right time
+and 
+this is a text file
+the name of the file is ashis.txt
